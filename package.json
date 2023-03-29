@@ -1,0 +1,14 @@
+{
+  "name": "Bankist",
+  "version": "1.0.0",
+  "homepage": "https://cold-world.github.io/bankist-app",
+  "main": "script.js",
+  "author": "cold-world",
+  "license": "MIT",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
